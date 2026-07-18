@@ -1,0 +1,6 @@
+{
+  "name": "Simple Cipher Encoder / Decoder",
+  "description": "A clean, professional Caesar cipher encoder and decoder with a shift of 1, featuring a liquid glass UI, seamless copy-sharing, and an AI Cryptanalyst with High Thinking Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
